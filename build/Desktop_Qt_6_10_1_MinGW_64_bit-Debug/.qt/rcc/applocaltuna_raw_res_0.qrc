@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/localtuna/">
+    <file alias="resources.qrc">D:/localtuna/resources.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/localtuna">
+    <file alias="qmldir">D:/localtuna/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/localtuna/qmldir</file>
+  </qresource>
+</RCC>
+

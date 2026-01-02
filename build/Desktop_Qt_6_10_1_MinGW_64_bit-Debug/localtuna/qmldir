@@ -1,0 +1,6 @@
+module localtuna
+typeinfo applocaltuna.qmltypes
+prefer :/qt/qml/localtuna/
+Main 1.0 Main.qml
+depends QtQuick
+
