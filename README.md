@@ -28,4 +28,3 @@ A lightweight **offline music player** built with **C++** and **Qt QML**, levera
  when adding a song make sure it is in this format: **title-author-genre-rating.mp3**
 
 ---
-song fomrat should be title-author-genre-rating.mp3
